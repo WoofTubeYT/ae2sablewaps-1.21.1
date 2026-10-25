@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.wooftubeyt.ae2sablewaps.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["WirelessTerminalMenuHostMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

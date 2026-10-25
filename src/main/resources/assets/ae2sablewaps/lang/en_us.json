@@ -1,0 +1,13 @@
+{
+  "itemGroup.ae2sablewaps": "Example Mod Tab",
+  "block.ae2sablewaps.example_block": "Example Block",
+  "item.ae2sablewaps.example_item": "Example Item",
+
+  "ae2sablewaps.configuration.title": "ae2sablewaps Configs",
+  "ae2sablewaps.configuration.section.ae2sablewaps.common.toml": "ae2sablewaps Configs",
+  "ae2sablewaps.configuration.section.ae2sablewaps.common.toml.title": "ae2sablewaps Configs",
+  "ae2sablewaps.configuration.items": "Item List",
+  "ae2sablewaps.configuration.logDirtBlock": "Log Dirt Block",
+  "ae2sablewaps.configuration.magicNumberIntroduction": "Magic Number Text",
+  "ae2sablewaps.configuration.magicNumber": "Magic Number"
+}
