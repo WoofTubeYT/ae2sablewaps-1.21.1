@@ -90,7 +90,7 @@ public class ae2sablewaps {
 
     private void commonSetup(FMLCommonSetupEvent event) {
         // Some common setup code
-      //  LOGGER.info("HELLO FROM COMMON SETUP");
+        LOGGER.info("HELLO FROM COMMON SETUP");
     /*
         if (Config.LOG_DIRT_BLOCK.getAsBoolean()) {
             LOGGER.info("DIRT BLOCK >> {}", BuiltInRegistries.BLOCK.getKey(Blocks.DIRT));
